@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prashannjeet0206
+- 👋 Hi, I’m @Prashannjeet Paul
 - 👀 I’m interested in exploring and learning new technologies.
 
 - 💞️ I’m looking to collaborate on Reactjs projects on fintech
