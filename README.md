@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring and learning new technologies.
 
 - 💞️ I’m looking to collaborate on Reactjs projects on fintech
-- 📫 How to reach me prashannjeet0206@gmail.com
+- 📫 How to reach me prashannjeetp02@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
